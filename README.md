@@ -2,13 +2,12 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woshiHD&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
- <h2>👋 Hi! </h2>
+ <h1>👋 Hi! </h1>
 <!--  <p>👀 I’m interested in ... </p>
  <p> 🌱 I’m currently learning ... </p>
  <p>💞️ I’m looking to collaborate on ... </p>
  <p>📫 How to reach me ... </p> -->
-
-
+ <p> 🌱 Learning about life one step at a time</p>
 
 
 
